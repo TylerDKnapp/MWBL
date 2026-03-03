@@ -1,1 +1,1 @@
-python3 C:\Users\KZLocal\Documents\Scripts\GetDataPi.py
+python3 C:\Users\KZLocal\Documents\MWBL\Logging_Scripts\Corner_Office\GetDataPi.py
