@@ -1,5 +1,24 @@
 # MWBL
 
+Basic git use:
+
+Setup -
+*cd into wherever you'd like the MWBL folder to be*
+git add
+git clone https://github.com/TylerDKnapp/MWBL
+git pull
+git config user.name "Your git username"
+git config user.email "Your git username"
+
+The following is much simpler and safer to do via VSCode!
+
+Pulling -
+git fetch
+git pull
+
+Pushing -
+git push -a
+
 # CODING CONVENTIONS & STYLE GUIDE
 
 1. PURPOSE
