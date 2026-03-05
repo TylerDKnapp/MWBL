@@ -110,19 +110,15 @@ Rules:
 
 Examples:
 
-pressure_LbsPIn2      (pressure in psi)
+force_N               (newtons)
 
-length_M              (meters)
-
-time_S                (seconds)
+waterPressure_LbsPIn2      (pressure in psi)
 
 velocity_MPS          (meters per second)
 
 accel_MPS2             (meters per second squared)
 
-force_N               (newtons)
-
-temp_C                (degrees Celsius)
+relHumid_Pct               (percent 0-100%)
 
 
 Rules:
