@@ -23,12 +23,13 @@ Setup -
 
 Pulling -
 
-git fetch
-git pull
+`git fetch`
+
+`git pull`
 
 Pushing -
 
-git push -a
+`git push -a`
 
 # CODING CONVENTIONS & STYLE GUIDE
 
