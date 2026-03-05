@@ -83,10 +83,15 @@ Rules:
 * Do not encode type information unless required by the language
 
 Examples:
+
 pressure
+
 maxVelocity
+
 iterationCount
+
 sensorOffset
+
 
 ---
 
@@ -144,9 +149,13 @@ Rules:
 * Constants with units MUST include units
 
 Examples:
+
 MAX_ITERATIONS
+
 PI
+
 GRAVITY_MPS2
+
 STANDARD_PRESSURE_Pa
 
 ---
@@ -154,6 +163,7 @@ STANDARD_PRESSURE_Pa
 ## 3.4 Functions
 
 Style: snake_case
+
 Applies to: ALL languages, without exception
 
 Rules:
@@ -163,11 +173,17 @@ Rules:
 * Avoid ambiguous or generic verbs
 
 Examples:
+
 calculate_pressure()
+
 read_sensor_data()
+
 update_state()
+
 compute_fft()
+
 validate_input()
+
 
 ---
 
@@ -182,9 +198,13 @@ Rules:
 * Avoid generic names like "utils", "misc", or "helpers" unless unavoidable
 
 Examples:
+
 Python:      pressure_solver.py
+
 MATLAB:      calculate_pressure.m (function name must match file)
+
 C/C++:       pressure_solver.c / pressure_solver.h
+
 
 ---
 
@@ -245,9 +265,11 @@ Rules:
 * Keep comments accurate and up to date
 
 Correct:
+
 Compensate for sensor drift at high temperatures
 
 Incorrect:
+
 Subtract correction from value
 
 ---
