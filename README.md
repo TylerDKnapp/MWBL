@@ -104,13 +104,21 @@ Rules:
 * Units are mandatory anywhere a quantity has dimensions
 
 Examples:
+
 pressure_LbsPIn2      (pressure in psi)
+
 length_M              (meters)
+
 time_S                (seconds)
+
 velocity_MPS          (meters per second)
+
 accel_MPS2             (meters per second squared)
+
 force_N               (newtons)
+
 temp_C                (degrees Celsius)
+
 
 Rules:
 
