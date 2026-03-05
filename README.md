@@ -94,7 +94,7 @@ sensorOffset
 
 All variables representing physical quantities MUST include units in the name.
 
-Format: <baseName>_<Unit>
+Format: *baseName*_*Unit*
 
 Rules:
 
